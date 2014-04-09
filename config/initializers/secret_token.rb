@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-RailsDiffTrack4::Application.config.secret_key_base = 'f1bf5baea444174372f0543e886d529d52881bcc7fbba72990138f6122d88c6fa46de519b2ef6a70a97132b3c8468c8cd6b30fcef0879ede248a494d501d7774'
+RailsDiffTrack4::Application.config.secret_key_base = '6ee19bcd1ac2c9a6fe8c9c08ebd29898738657956d1b67d695810e94d51e7fb944994e36eb5f08ecb8c9843b1c840c31c23ca21517f052e799a020364f017e5d'
