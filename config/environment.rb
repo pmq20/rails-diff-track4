@@ -2,4 +2,4 @@
 require File.expand_path('../application', __FILE__)
 
 # Initialize the Rails application.
-RailsDiffTrack4::Application.initialize!
+Rails.application.initialize!
